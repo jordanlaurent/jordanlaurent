@@ -18,4 +18,4 @@
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanlaurent&show_icons=true&theme=react)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanlaurent&layout=compact)]
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jordanlaurent)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jordanlaurent)]
