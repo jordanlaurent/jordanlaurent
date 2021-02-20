@@ -18,4 +18,4 @@
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanlaurent&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanlaurent&layout=compact)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jordanlaurent)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjordanlaurent&count_bg=%2379C83D&title_bg=%23555555&icon=reddit.svg&icon_color=%23E7E7E7&title=Nombre+de+visite&edge_flat=true)](https://hits.seeyoufarm.com)
